@@ -1,0 +1,21 @@
+# Ignorar diretórios de ambientes virtuais
+.venv
+venv/
+env/
+
+# Ignorar arquivos de configuração de IDE
+.vscode/
+.idea/
+
+# Ignorar arquivos de compilação
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de configuração específicos do sistema
+*.log
+*.sqlite3
+
+# Ignorar arquivos de configuração de Scrapy
+.scrapy/
+
+.env
