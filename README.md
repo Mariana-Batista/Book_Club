@@ -1,5 +1,5 @@
 # Books Club - ETL e Pipeline
-Bem-vindo ao meu repositório de estudos e projetos em Engenharia de Dados! Este espaço foi criado para documentar minha especialização nessa área e para compartilhar os conhecimentos e projetos que venho desenvolvendo ao longo do tempo.
+O projeto Club Books é uma solução de engenharia de dados desenvolvida para a startup Book Club. O sistema é responsável pela extração, transformação e carregamento (ETL) de dados de livros para um banco de dados MySQL, visando auxiliar na recomendação e análise de livros para troca e venda.
 
 ## Descrição do Projeto
 O projeto Club Books foi desenvolvido para atender às necessidades da startup Book Club, que atua no setor de troca e venda de livros. O objetivo principal era construir uma pipeline de ETL (Extração, Transformação e Carregamento) que pudesse coletar dados de livros de uma fonte online, transformá-los para análise e carregá-los em um banco de dados MySQL. Esses dados seriam utilizados para criar um sistema de recomendação, melhorando a experiência dos usuários da plataforma.
