@@ -94,3 +94,8 @@ O projeto Club Books foi desenvolvido para atender às necessidades da startup B
   <li>Localização: 'pipelines/daily_etl_pipeline.py'
   <li>Função: Agendador que executa os scripts de ETL diariamente às 00:00.</li>
 </ul>
+
+<h2>Fonte Utilizada:</h2>
+<ul>
+    <li>Fonte do projeto: (https://medium.com/@meigarom/o-projeto-de-data-engineering-para-o-seu-portf%C3%B3lio-c186c7191823)</li>
+</ul>
